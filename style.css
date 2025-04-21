@@ -1,0 +1,10 @@
+.top {
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+};
+
+p {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+};
