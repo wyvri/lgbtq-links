@@ -1,8 +1,12 @@
 .top {
     text-align: center;
-    background-color: pink;
+    background-image: linear-gradient(to right,blue, rgb(255, 95, 207), white, rgb(255, 95, 207), blue);
     padding: 10px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px 0px rgb(255, 255, 255),
+    -2px -2px 0px rgb(255, 255, 255),
+    2px -2px 0px rgb(255, 255, 255),
+    -2px 2px 0px rgb(255, 255, 255);
 }
 
 body {
