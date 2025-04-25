@@ -9,6 +9,16 @@
     -2px 2px 0px rgb(255, 255, 255);
 }
 
+.top-nav {
+    text-align: left;
+    text-shadow: none;
+}
+
+.top-nav a {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 body {
     font-family:'Courier New', Courier, monospace;
     margin: 0px;
